@@ -1,0 +1,6 @@
+{
+  "name": "Smart Waste Management",
+  "description": "An interactive smart waste monitoring system containing real-time simulated sensors, route planning, analytical report generator, and full IoT implementation guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
